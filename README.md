@@ -4,7 +4,7 @@ A curated collection of resources and practical guidelines on Value Alignment re
 <div align="center">
 
   <img src="https://img.shields.io/badge/Updated-2025--10-blue" />
-  <img src="https://img.shields.io/badge/Papers-50%2B-brightgreen" />
+  <img src="https://img.shields.io/badge/Papers-90%2B-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Value%20Alignment-orange" />
   <img src="https://img.shields.io/badge/License-CC--BY--4.0-lightgrey" />
 
