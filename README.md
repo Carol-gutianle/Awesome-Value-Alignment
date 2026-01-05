@@ -13,7 +13,7 @@ A curated collection of resources and practical guidelines on Value Alignment re
 ****
 
 ## Structure
-![](./Value Alignment Cycle.png)
+![](./vac.png)
 
 ## 📅 Representations
 
